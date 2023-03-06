@@ -2,7 +2,7 @@
 <img src="https://telegra.ph/file/ca55316001b1218744294.jpg" alt="nz" width="350"/>
 </p>
 
-<h1> 🌟Shadow-bot🌟 </h1>
+## ***🌟Shadow-bot🌟***
 > This Script WhatsApp Bot Using Library Baileys & Script is free for everyone, not for Sale!
 > ***Note: it's a modified version of [WhatsApp-bot](https://github.com/LuckyYam/WhatsApp-bot)***
 </br>
