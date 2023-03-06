@@ -52,4 +52,4 @@
 ## Thanks To
 * [`Shinei | Whatshell`](https://github.com/LuckyYam/)
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
-* [`Ali_Aryan for Chisato`](https://github.com/)
+* [`Ali_Aryan for Chisato`](https://github.com/AliAryanTech/)
