@@ -1,22 +1,22 @@
 <p align="center">
-<img src="https://telegra.ph/file/bdd281b87aaa6f4ee0a67.jpg" alt="nz" width="350"/>
+<img src="https://telegra.ph/file/ca55316001b1218744294.jpg" alt="nz" width="350"/>
 </p>
 
-## ***Chisato-WhatsApp***
+<h1> 🌟Shadow-bot🌟 </h1>
 > This Script WhatsApp Bot Using Library Baileys & Script is free for everyone, not for Sale!
 > ***Note: it's a modified version of [WhatsApp-bot](https://github.com/LuckyYam/WhatsApp-bot)***
 </br>
 
-<a href="https://github.com/AliAryanTech/"><img title="Author" src="https://img.shields.io/badge/Author-AliAryanTech-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></a>  
-<a href="https://github.com/AliAryanTech/Chisato-WhatsApp"><img title="Stars" src="https://img.shields.io/github/stars/AliAryanTech/Chisato-WhatsApp?color=54aeff&style=flat-square" /></a>
-<a href="https://github.com/AliAryanTech/Chisato-WhatsApp/network/members"><img title="Forks" src="https://img.shields.io/github/forks/AliAryanTech/Chisato-WhatsApp?color=54aeff&style=flat-square" /></a>
-<a href="https://github.com/AliAryanTech/Chisato-WhatsApp/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/AliAryanTech/Chisato-WhatsApp?label=watchers&color=54aeff&style=flat-square" /></a> <br>
+<a href="https://github.com/Empty-sama/"><img title="Author" src="https://img.shields.io/badge/Author-Empty-sama-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></a>  
+<a href="https://github.com/Empty-sama/shadow"><img title="Stars" src="https://img.shields.io/github/stars/Empty-sama/shadow?color=54aeff&style=flat-square" /></a>
+<a href="https://github.com/Empty-sama/shadow/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Empty-sama/shadow?color=54aeff&style=flat-square" /></a>
+<a href="https://github.com/Empty-sama/shadow/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Empty-sama/shadow?label=watchers&color=54aeff&style=flat-square" /></a> <br>
 
 ---
 
 ### Deployment Methods 
-[![Deploy with Heroku](https://www.herokucdn.com/deploy/button.svg "Deploy with Heroku")](https://heroku.com/deploy?template=https://github.com/AliAryanTech/Chisato-WhatsApp/blob/master/ "Deploy with Heroku")
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/apps/deploy?type=docker&image=quay.io/toshi-san001/koyeb-auto-install:main&env%5BPORT%5D=8000&env%5BPREFIX%5D&&env%5BMONGODB%5D&&env%MODS%5D&name=Chisato-WhatsApp)
+[![Deploy with Heroku](https://www.herokucdn.com/deploy/button.svg "Deploy with Heroku")](https://heroku.com/deploy?template=https://github.com/Empty-sama/shadow/blob/master/ "Deploy with Heroku")
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/apps/deploy?type=docker&image=quay.io/toshi-san001/koyeb-auto-install:main&env%5BPORT%5D=8000&env%5BPREFIX%5D&&env%5BMONGODB%5D&&env%MODS%5D&name=Shadow)
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/3j9GNw?referralCode=TE7efK)
 
 ### Deployment Guide
@@ -39,7 +39,7 @@
 
 ## License
 
-> Chisato-WhatsApp is free and open-source software licensed under the [GNU Affero General Public License v3.0](https://github.com/AliAryanTech/Chisato-WhatsApp/blob/master/LICENSE)
+> Chisato-WhatsApp is free and open-source software licensed under the [GNU Affero General Public License v3.0](https://github.com/Empty-sama/shadow/blob/master/LICENSE)
 
 ## Support 🍪
 
@@ -52,3 +52,4 @@
 ## Thanks To
 * [`Shinei | Whatshell`](https://github.com/LuckyYam/)
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
+* [`Ali_Aryan for Chisato`](https://github.com/)
