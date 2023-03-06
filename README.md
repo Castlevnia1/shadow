@@ -7,10 +7,10 @@
 > ***Note: it's a modified version of [WhatsApp-bot](https://github.com/LuckyYam/WhatsApp-bot)***
 </br>
 
-<a href="https://github.com/Empty-sama/"><img title="Author" src="https://img.shields.io/badge/Author-Empty-sama-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></a>  
-<a href="https://github.com/Empty-sama/shadow"><img title="Stars" src="https://img.shields.io/github/stars/Empty-sama/shadow?color=54aeff&style=flat-square" /></a>
-<a href="https://github.com/Empty-sama/shadow/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Empty-sama/shadow?color=54aeff&style=flat-square" /></a>
-<a href="https://github.com/Empty-sama/shadow/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Empty-sama/shadow?label=watchers&color=54aeff&style=flat-square" /></a> <br>
+<a href="https://github.com/AliAryanTech/"><img title="Author" src="https://img.shields.io/badge/Author-AliAryanTech-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></a>  
+<a href="https://github.com/AliAryanTech/Chisato-WhatsApp"><img title="Stars" src="https://img.shields.io/github/stars/AliAryanTech/Chisato-WhatsApp?color=54aeff&style=flat-square" /></a>
+<a href="https://github.com/AliAryanTech/Chisato-WhatsApp/network/members"><img title="Forks" src="https://img.shields.io/github/forks/AliAryanTech/Chisato-WhatsApp?color=54aeff&style=flat-square" /></a>
+<a href="https://github.com/AliAryanTech/Chisato-WhatsApp/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/AliAryanTech/Chisato-WhatsApp?label=watchers&color=54aeff&style=flat-square" /></a> <br>
 
 ---
 
@@ -52,4 +52,4 @@
 ## Thanks To
 * [`Shinei | Whatshell`](https://github.com/LuckyYam/)
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
-* [`Ali_Aryan for Chisato`](https://github.com/AliAryanTech/)
+* [`Alι_Aryαɴ for Chisato`](https://github.com/AliAryanTech/)
